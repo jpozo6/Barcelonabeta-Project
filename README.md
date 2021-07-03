@@ -1,6 +1,6 @@
 # Barcelonabeta-Project
-Notebook where main information will be posted: Stats Analysis
+Notebook where main information will be posted: Stats Analysis FREESURFER7
 
-First analytical comparison between volumens (mm3) obtained with the segmentation of different softwares have been made
+Analytical comparison between volumens (mm3) obtained with the segmentation of different softwares (FastSurfer and FreeSurfer) have been made
 
-Databases analysed: ALFA_PLUS and ALFA_OPCIONAL
+Datasets analysed: ALFA_PLUS and ALFA_OPCIONAL
